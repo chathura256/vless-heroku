@@ -1,0 +1,13 @@
+{
+    "name": "VLESS HEROKU",
+    "description": "DEPLOY VLESS IN HEROKUAPP",
+    "keywords": ["xray","v2ray"],
+    "env": {
+        "UUID": {
+            "description": "VLESS UUID",
+            "value": "xynte"
+        }
+    },
+    "repository": "https://github.com/EdyDevz/vless-heroku",
+    "stack": "container"
+}
