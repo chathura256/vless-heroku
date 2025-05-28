@@ -4,10 +4,10 @@
     "keywords": ["xray","v2ray"],
     "env": {
         "UUID": {
-            "description": "VLESS UUID",
+            "description": "57519ba9-6669-4975-aaaf-32fee25cd0ee",
             "value": "xynte"
         }
     },
-    "repository": "https://github.com/EdyDevz/vless-heroku",
+    "repository": "https://github.com/chathura256/vless-heroku",
     "stack": "container"
 }
